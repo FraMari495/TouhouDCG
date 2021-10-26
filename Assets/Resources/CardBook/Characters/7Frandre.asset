@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 7Frandre
+  m_EditorClassIdentifier: 
+  id: 7
+  cardName: "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB"
+  cardImage: {fileID: 21300000, guid: 86a9b14d1c6e6564bac3383a07938c41, type: 3}
+  description: "<color=#00ffff> \u30D7\u30EC\u30A4\u6642</color> : \u6575\u4E00\u4F53\u3092\u7834\u58CA\u3059\u308B\n<color=#008000>
+    \u30DC\u30E03</color> : \u30D5\u30E9\u30F3\u30C9\u30FC\u30EB(\u5206\u8EAB)\u30923\u679A\u53EC\u559A"
+  cost: 6
+  onPlayAbility: {fileID: 11400000, guid: 7ec0f36e1f9e8584b96e493ac3ba0095, type: 2}
+  imageSizeRatio: 0.5
+  atk: 4
+  hp: 5
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  bombAbility: {fileID: 11400000, guid: 56c6fe46e096a6443bd4b84c17031e58, type: 2}
+  bombCost: 3
+  specialStatuses: 
+  race: 0

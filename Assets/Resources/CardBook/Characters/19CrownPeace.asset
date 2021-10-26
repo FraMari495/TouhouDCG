@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 19CrownPeace
+  m_EditorClassIdentifier: 
+  id: 19
+  cardName: "\u30AF\u30E9\u30A6\u30F3\u30D4\u30FC\u30B9"
+  cardImage: {fileID: 21300000, guid: 32e1c74a4582ef741adb6c4eb0de74d1, type: 3}
+  description: "<color=#008000> \u30DC\u30E02</color> : \u30E9\u30F3\u30C0\u30E0\u306A\u6575\u30AB\u30FC\u30C92\u4F53\u540C\u58EB\u3067\u30D0\u30C8\u30EB\u3092\u884C\u3046"
+  cost: 1
+  onPlayAbility: {fileID: 0}
+  imageSizeRatio: 0.5
+  atk: 2
+  hp: 3
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  bombAbility: {fileID: 11400000, guid: 92322066768b12440bab1a2583ecd813, type: 2}
+  bombCost: 2
+  specialStatuses: 
+  race: 1

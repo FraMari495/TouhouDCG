@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 18FrandreCopy
+  m_EditorClassIdentifier: 
+  id: 18
+  cardName: "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB(\u5206\u8EAB)"
+  cardImage: {fileID: 21300000, guid: 86a9b14d1c6e6564bac3383a07938c41, type: 3}
+  description: 
+  cost: 6
+  onPlayAbility: {fileID: 11400000, guid: 7ec0f36e1f9e8584b96e493ac3ba0095, type: 2}
+  imageSizeRatio: 0.5
+  atk: 3
+  hp: 3
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  bombAbility: {fileID: 0}
+  bombCost: -1
+  specialStatuses: 
+  race: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 10Eiki
+  m_EditorClassIdentifier: 
+  id: 10
+  cardName: "\u56DB\u5B63\u6620\u59EB"
+  cardImage: {fileID: 21300000, guid: 37a4f743c8b96a54fb53a109b26a95cb, type: 3}
+  description: "<color=#00ffff> \u653B\u6483\u5F8C</color> :\u653B\u6483\u5BFE\u8C61\u3092\u51CD\u7D50\u3055\u305B\u308B"
+  cost: 5
+  onPlaySkill: {fileID: 0}
+  imageSizeRatio: 0.5
+  atk: 2
+  hp: 5
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  specialStatuses: 04000000

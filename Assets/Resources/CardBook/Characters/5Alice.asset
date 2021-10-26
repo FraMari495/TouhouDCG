@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 5Alice
+  m_EditorClassIdentifier: 
+  id: 5
+  cardName: "\u30A2\u30EA\u30B9"
+  cardImage: {fileID: 21300000, guid: a7c234b94cd621b43a6a44aab5935041, type: 3}
+  description: "<color=#00ffff> \u30D7\u30EC\u30A4\u6642</color> :\n\u4E0A\u6D77\u4EBA\u5F62\u3068\u84EC\u83B1\u4EBA\u5F62\u30921\u4F53\u305A\u3064\u53EC\u559A\u3059\u308B"
+  cost: 5
+  onPlayAbility: {fileID: 11400000, guid: 2cec7ba178116304c81f5b3507acb129, type: 2}
+  imageSizeRatio: 0.5
+  atk: 2
+  hp: 2
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  bombAbility: {fileID: 0}
+  bombCost: -1
+  specialStatuses: 
+  race: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad7f0dfc16160c48bfad1234b8f883e, type: 3}
+  m_Name: 13Hatate
+  m_EditorClassIdentifier: 
+  id: 13
+  cardName: "\u59EB\u6D77\u68E0\u306F\u305F\u3066"
+  cardImage: {fileID: 21300000, guid: afa96d82319486c49aafcfeec5f0e3a5, type: 3}
+  description: 
+  cost: 4
+  onPlayAbility: {fileID: 11400000, guid: 457b57e592dcf114e9e036e490667221, type: 2}
+  imageSizeRatio: 0.5
+  atk: 3
+  hp: 3
+  onDefeatedSkill: {fileID: 0}
+  onTurnEndSkill: {fileID: 0}
+  specialStatuses: 

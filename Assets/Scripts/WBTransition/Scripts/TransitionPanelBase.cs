@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 namespace WBTransition
 {
-    public abstract class TransitionPanelBase : MonoBehaviour
+    internal abstract class TransitionPanelBase : MonoBehaviour
     {
         [Header("‘JˆÚ‚ÍtimeScale‚ğƒ[ƒ‚Æ‚·‚é")]
         [SerializeField] private bool timeScale_zero = true;

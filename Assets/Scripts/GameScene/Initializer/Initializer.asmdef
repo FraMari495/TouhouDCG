@@ -1,0 +1,25 @@
+{
+    "name": "Initializer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f081fe2d163f7c6439c6ed1611b3ea8a",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:6b4164bddfcda8c4d963477bec57cc38",
+        "GUID:974a250718c333049b553c649ccc0bee",
+        "GUID:09f2ba8abe59f0c4d8915143bcdf566b",
+        "GUID:f356c869dd203df4dae5e7961f83831f",
+        "GUID:db00b80488ed34f448e8b22a3b968ea4",
+        "GUID:a748b4e66368a88449e98f2ad9a708bb",
+        "GUID:c132c8728eb86064aaeb90a724e328b5",
+        "GUID:f07b208456345e647ab7647aa0512193"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

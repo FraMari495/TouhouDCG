@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   isPlayer: 1
-  playingCard:
-    id: 1
+  playingCard: 1
   position: 0
-  skillTarget:
-    id: 0
+  skillTarget: 0
   targetingHero: 0
   isPlayerTarget: 0
   noTarget: 1

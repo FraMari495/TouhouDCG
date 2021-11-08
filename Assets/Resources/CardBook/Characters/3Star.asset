@@ -18,13 +18,21 @@ MonoBehaviour:
   description: "\u4E0D\u610F\u6253\u3061\n<color=#008000> \u30DC\u30E01</color> :
     \u30C7\u30C3\u30AD\u4E2D\u306E\u5996\u7CBE\u30AB\u30FC\u30C9\u30921\u679A\u767A\u898B"
   cost: 3
-  onPlayAbility: {fileID: 0}
+  onPlayAbility:
+    scriptableObject: {fileID: 0}
+    typeName: IRequireTarget
   imageSizeRatio: 0.5
   atk: 2
   hp: 3
-  onDefeatedSkill: {fileID: 0}
-  onTurnEndSkill: {fileID: 0}
-  bombAbility: {fileID: 11400000, guid: 43c2f890d78f6f14d971ba0a13a6f50e, type: 2}
+  onDefeatedSkill:
+    scriptableObject: {fileID: 0}
+    typeName: IOnDefeatedAbility
+  onTurnEndSkill:
+    scriptableObject: {fileID: 0}
+    typeName: IOnTurnEndAbility
+  bombAbility:
+    scriptableObject: {fileID: 11400000, guid: 43c2f890d78f6f14d971ba0a13a6f50e, type: 2}
+    typeName: IBombAbility
   bombCost: 1
   specialStatuses: 02000000
   race: 1

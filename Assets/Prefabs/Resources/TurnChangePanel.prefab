@@ -354,7 +354,7 @@ GameObject:
   - component: {fileID: 6621410323420650027}
   - component: {fileID: 6621410323420650026}
   - component: {fileID: 6621410323420650021}
-  - component: {fileID: 2530294813298389396}
+  - component: {fileID: 8707323263161515328}
   m_Layer: 5
   m_Name: TurnChangePanel
   m_TagString: Untagged
@@ -439,7 +439,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &2530294813298389396
+--- !u!114 &8707323263161515328
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -448,13 +448,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 6621410323420650023}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: beb37ca0d92051e43b5525c2821e54c5, type: 3}
+  m_Script: {fileID: 11500000, guid: 779d280c84a1241408d50453364d5f75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textAnimator: {fileID: 6621410321538955410}
-  panelAlphaAnimator: {fileID: 6621410323420650021}
+  textAnimator: {fileID: 6621410323420650021}
+  panelAlphaAnimator: {fileID: 6621410321538955410}
   turnChangeText: {fileID: 6621410321759648519}
   line1: {fileID: 6621410322856910597}
   line2: {fileID: 6621410322862600618}
-  playerColor: {r: 0.77254903, g: 0.95686275, b: 1, a: 1}
-  rivalColor: {r: 1, g: 0.60784316, b: 0.60784316, a: 1}
+  playerColor: {r: 0.26666668, g: 0.827451, b: 0.8980392, a: 1}
+  rivalColor: {r: 1, g: 0.5254902, b: 0.5254902, a: 1}

@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace WBTransition
 {
-    public class TransitionPanelFade : TransitionPanelBase
+    internal class TransitionPanelFade : TransitionPanelBase
     {
         [SerializeField] private CanvasGroup canvasGroup;
         [SerializeField] private GameObject loading;

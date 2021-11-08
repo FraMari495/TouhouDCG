@@ -1,0 +1,25 @@
+{
+    "name": "CardInputHandler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:974a250718c333049b553c649ccc0bee",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6b4164bddfcda8c4d963477bec57cc38",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:f081fe2d163f7c6439c6ed1611b3ea8a",
+        "GUID:11f52fa86048dd8459f24b800f76e1b6",
+        "GUID:8cab4be83994e9a42bc48a867179ecfc",
+        "GUID:c132c8728eb86064aaeb90a724e328b5",
+        "GUID:db00b80488ed34f448e8b22a3b968ea4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

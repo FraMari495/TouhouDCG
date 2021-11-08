@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: 5
   m_EditorClassIdentifier: 
   isPlayer: 1
-  attacker:
-    id: 1
-  target:
-    id: -1
+  attacker: 1
+  target: -1
   targetingHero: 0

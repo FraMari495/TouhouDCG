@@ -17,13 +17,21 @@ MonoBehaviour:
   cardImage: {fileID: 21300000, guid: 77466d4d1195eab4ea1a84a0cbcb48a6, type: 3}
   description: "<color=#00ffff> \u30D7\u30EC\u30A4\u6642</color> :\u6575\u4E00\u4F53\u306B2\u30C0\u30E1\u30FC\u30B8"
   cost: 2
-  onPlayAbility: {fileID: 11400000, guid: baab42ee9e1039c4fbf40959e4cdd551, type: 2}
+  onPlayAbility:
+    scriptableObject: {fileID: 11400000, guid: b3ca503b8c3eab542b177e28e4792817, type: 2}
+    typeName: IRequireTarget
   imageSizeRatio: 0.5
   atk: 1
   hp: 2
-  onDefeatedSkill: {fileID: 0}
-  onTurnEndSkill: {fileID: 0}
-  bombAbility: {fileID: 0}
+  onDefeatedSkill:
+    scriptableObject: {fileID: 0}
+    typeName: IOnDefeatedAbility
+  onTurnEndSkill:
+    scriptableObject: {fileID: 0}
+    typeName: IOnTurnEndAbility
+  bombAbility:
+    scriptableObject: {fileID: 0}
+    typeName: IBombAbility
   bombCost: -1
   specialStatuses: 
   race: 1

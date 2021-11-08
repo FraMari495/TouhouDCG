@@ -1,0 +1,18 @@
+{
+    "name": "InterfaceRegister_Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:876f59d4bb3ae9543b6a05bfce201ee6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

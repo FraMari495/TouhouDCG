@@ -34,7 +34,7 @@ public class SaveSystem
 
         if (webgl)
         {
-            PlayerPrefs.SetString("key", jsonData);
+            PlayerPrefs.SetString(key, jsonData);
             PlayerPrefs.Save();
         }
         else
